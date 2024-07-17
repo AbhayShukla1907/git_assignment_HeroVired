@@ -46,8 +46,9 @@ CalculatorPlus is a Python application that provides basic arithmetic operations
       
 ## l. Final Testing and Release:
    1. Tested the application in the dev branch.
-   2. Merged 'dev' into 'main'.
-   3. Created the v2.0 release on GitHub
+   2. fix issues identified during testing.
+   3. Merged 'dev' into 'main'.
+   4. Created the v2.0 release on GitHub
       
 ## M. Conclusion:
    This project successfully added a square root feature and fixed a critical bug in the 
