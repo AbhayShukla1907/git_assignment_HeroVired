@@ -96,7 +96,7 @@
 
 
 
-## Introduction
+# Introduction
    This repository demonstrates how to integrate Git LFS (Large File Storage) to handle large binary files efficiently. The steps performed include adding, committing, and pushing binary files to the repository and verifying the files on another machine.
 ## Project Steps
 
